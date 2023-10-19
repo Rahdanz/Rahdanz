@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Risky Ramadhani</h1>
+<h1 align="center">Hi, I'm Risky Ramadhani</h1>
 <h3 align="center">A young passionate web programmer</h3>
 
 <p align="left"> <a href="https://twitter.com/wayfaygratis" target="blank"><img src="https://img.shields.io/twitter/follow/wayfaygratis?logo=twitter&style=for-the-badge" alt="wayfaygratis" /></a> </p>
